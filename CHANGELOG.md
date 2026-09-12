@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1
+
+- Updated Android Gradle configuration to use built-in Kotlin support.
+- Added Swift Package Manager (SPM) support for iOS.
+- Fixed legacy Kotlin configuration warnings.
+
 ## 1.0.0
 
 - Initial release.

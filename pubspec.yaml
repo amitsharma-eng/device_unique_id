@@ -1,6 +1,6 @@
 name: device_unique_id
 description: Get a reliable device identifier on Android and iOS — Android ID, iOS identifierForVendor, and a Keychain/EncryptedSharedPreferences-backed persistent UUID that survives reinstall.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/amitsharma-eng/device_unique_id
 repository: https://github.com/amitsharma-eng/device_unique_id
 topics:
